@@ -6,8 +6,6 @@ import ThemeToggle from "../theme/toggle";
 export default function Women(){
     return( <>
     <Heading/>
-    <Categories/>
-    <ThemeToggle/>
     <Products_Women/>
     <Footer/>
     </>

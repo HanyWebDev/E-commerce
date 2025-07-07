@@ -9,7 +9,7 @@ const ThemeToggle = () => {
 
   return (
     <div className="mt-2 mb-3 p-2 ml-4 flex items-center space-x-2">
-      <span>{`Current Theme: ${theme}`}</span>
+      <span>{`${theme}`}</span>
       <input
         type="checkbox"
         className="toggle toggle-md"

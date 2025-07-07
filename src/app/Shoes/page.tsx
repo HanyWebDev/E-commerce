@@ -6,8 +6,6 @@ import ThemeToggle from "../theme/toggle";
 export default function Shoes(){
     return( <>
     <Heading/>
-    <Categories/>
-    <ThemeToggle/>
     <Products_Shoes/>
     <Footer/>
     </>

@@ -9,7 +9,6 @@ export default function kart () {
     <>
     <Heading/>
     <Breadcrumbs/>
-    <ThemeToggle/>
     <Cart/>
     <Footer/>
     </>

@@ -6,8 +6,6 @@ import ThemeToggle from "../theme/toggle";
 export default function Jewelry(){
     return( <>
     <Heading/>
-    <Categories/>
-    <ThemeToggle/>
     <Products_Jewelery/>
     <Footer/>
     </>
